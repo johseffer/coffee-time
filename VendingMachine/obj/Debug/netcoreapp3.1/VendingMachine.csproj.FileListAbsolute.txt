@@ -1,0 +1,16 @@
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.exe
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.deps.json
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.json
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.runtimeconfig.dev.json
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.dll
+c:\app\VendingMachine\VendingMachine\bin\Debug\netcoreapp3.1\VendingMachine.pdb
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csprojAssemblyReference.cache
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.Properties.Resources.resources
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.GenerateResource.cache
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfoInputs.cache
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.AssemblyInfo.cs
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.csproj.CoreCompileInputs.cache
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.dll
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.pdb
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.genruntimeconfig.cache
+c:\app\VendingMachine\VendingMachine\obj\Debug\netcoreapp3.1\VendingMachine.frmVendingMachine.resources
