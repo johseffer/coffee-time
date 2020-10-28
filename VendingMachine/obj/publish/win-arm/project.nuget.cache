@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "bK6IlOv0VJllIiybzl8C5R4s4SxgUt7eONr4eRk9JxgGI5p84rkY0QwvG6sJRY1JI5vSES8PGopXUCMFa0MmDw==",
+  "success": true,
+  "projectFilePath": "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\995554\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm\\3.1.7\\microsoft.netcore.app.runtime.win-arm.3.1.7.nupkg.sha512",
+    "C:\\Users\\995554\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm\\3.1.7\\microsoft.aspnetcore.app.runtime.win-arm.3.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}

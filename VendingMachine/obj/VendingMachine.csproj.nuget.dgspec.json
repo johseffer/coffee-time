@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {}
+    "C:\\app\\coffee-time\\VendingMachine\\VendingMachine.csproj": {}
   },
   "projects": {
-    "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj": {
+    "C:\\app\\coffee-time\\VendingMachine\\VendingMachine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+        "projectUniqueName": "C:\\app\\coffee-time\\VendingMachine\\VendingMachine.csproj",
         "projectName": "VendingMachine",
-        "projectPath": "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+        "projectPath": "C:\\app\\coffee-time\\VendingMachine\\VendingMachine.csproj",
         "packagesPath": "C:\\Users\\995554\\.nuget\\packages\\",
-        "outputPath": "c:\\app\\VendingMachine\\VendingMachine\\obj\\",
+        "outputPath": "C:\\app\\coffee-time\\VendingMachine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

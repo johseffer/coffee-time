@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oyamM/7gsoGHWL3Y+Z8SHRUQLxTPOJMb+wAq80gYQVpDMnawZ8X7XqcjVGg3KNxtIafWfDEG1daWyDvcZwYGog==",
+  "dgSpecHash": "ey6zQmxOu4XImWg/onO2acxZyaU75h29s/bujrVE6S2sCCgsfznVICfk+dyn88nu/0UsVnNkIh6EqUHvleptxw==",
   "success": true,
-  "projectFilePath": "c:\\app\\VendingMachine\\VendingMachine\\VendingMachine.csproj",
+  "projectFilePath": "C:\\app\\coffee-time\\VendingMachine\\VendingMachine.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
