@@ -45,6 +45,7 @@
             this.btnCancelar = new System.Windows.Forms.Button();
             this.btnComprar = new System.Windows.Forms.Button();
             this.gpbTroco = new System.Windows.Forms.GroupBox();
+            this.flpTroco = new System.Windows.Forms.FlowLayoutPanel();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.pbDezCentavos = new System.Windows.Forms.PictureBox();
             this.pbCincoCentavos = new System.Windows.Forms.PictureBox();
@@ -59,7 +60,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.flpTroco = new System.Windows.Forms.FlowLayoutPanel();
             this.pnlImageVendingMachine.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.pnlActions.SuspendLayout();
@@ -259,6 +259,14 @@
             this.gpbTroco.TabStop = false;
             this.gpbTroco.Text = "Bandeja de troco";
             // 
+            // flpTroco
+            // 
+            this.flpTroco.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.flpTroco.Location = new System.Drawing.Point(3, 19);
+            this.flpTroco.Name = "flpTroco";
+            this.flpTroco.Size = new System.Drawing.Size(155, 104);
+            this.flpTroco.TabIndex = 0;
+            // 
             // groupBox3
             // 
             this.groupBox3.Controls.Add(this.pbDezCentavos);
@@ -420,19 +428,11 @@
             this.label4.TabIndex = 2;
             this.label4.Text = "2 - Mocha";
             // 
-            // flpTroco
-            // 
-            this.flpTroco.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.flpTroco.Location = new System.Drawing.Point(3, 19);
-            this.flpTroco.Name = "flpTroco";
-            this.flpTroco.Size = new System.Drawing.Size(155, 104);
-            this.flpTroco.TabIndex = 0;
-            // 
             // frmVendingMachine
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(598, 589);
+            this.ClientSize = new System.Drawing.Size(598, 600);
             this.Controls.Add(this.pnlActions);
             this.Controls.Add(this.pnlImageVendingMachine);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
